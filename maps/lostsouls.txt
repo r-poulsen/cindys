@@ -1,0 +1,42 @@
+# Catacombs of the Lost Souls (???): 15-100, Angharad  (Solace: 6s3wnd)
+#
+#                           Solace
+#                            x
+#                           X
+#                           |
+#                           o
+#                           |
+#                   o       o
+#                   |       |
+#                   o - o - o - o - o - o
+#                   |               |   |
+#           o - o - o               o   o - o
+#               |                       |
+#               |                       o - o - o
+#               o                           |
+#               |                           o
+#               |                           |
+#               o ---- o --\            o - o
+#              /            \           |
+#     o - o - o              \-- o ---- o - o - o - o
+#     |       |                                     |
+# o - o o     o                                 o - o - o
+#     |/|                                           |
+#     o o -- o --- o -- o - o   o       o - o - o - o
+#            |          |   |   |       |
+#            o          o   o - o       o - o
+#                       |       |       |
+#                       o - o - o - o - o
+#                       |
+#                       o
+#
+* Whole area is NOT very bright
+
+Lost Souls:              Lvl    Xp ASWIDMX # agg     Hp        Gold    Special
+A maggot                  17  391k N-xxx-    --   363-364       1-1    [insect]
+The carcass               18  413k N-x--     GNE   ~400       856-908  [undead]
+A skeleton                23 1080k E-xxx-    --    ~500      1192-1290 [undead]
+The cadaver               27 2160k N-xxx-    --    ~600      1550-1700 [undead]
+A decrepit zombie         28 2519k E-xxx-    --    ~700      1633-1781 [undead]
+An entity                 30 3600k N-xxx-    --   753-754    1809-1997 [entity]
+The zombie master         35 9449k Ex-xx-    --    ~915      2280-2487 [undead]
